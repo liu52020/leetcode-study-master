@@ -10,4 +10,5 @@ leetcode学习记录  跟着carl哥的《代码随想录》学习
 # 目录
 ## 数组
 1. [数组总结](https://github.com/liu52020/leetcode-study-master/blob/main/Basic/%E6%95%B0%E7%BB%84%E7%9F%A5%E8%AF%86.md)
-
+2. [704. 二分查找](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%95%B0%E7%BB%84/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+3. [27.  移除元素](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%95%B0%E7%BB%84/%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md)
