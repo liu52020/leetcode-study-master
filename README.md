@@ -9,5 +9,5 @@ leetcode学习记录  跟着carl哥的《代码随想录》学习
 
 # 目录
 ## 数组
-1. 数组总结
+1. [数组总结](https://github.com/liu52020/leetcode-study-master/blob/main/Basic/%E6%95%B0%E7%BB%84%E7%9F%A5%E8%AF%86.md)
 
