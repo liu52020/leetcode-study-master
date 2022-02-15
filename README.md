@@ -17,5 +17,5 @@ leetcode学习记录  跟着carl哥的《代码随想录》学习
 6. [59. 螺旋矩阵II](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%95%B0%E7%BB%84/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5II.md)
 
 ## 链表
-1. [链表总结]()
+1. [链表总结](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 2. [203. 移除链表元素](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E9%93%BE%E8%A1%A8/%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md)
