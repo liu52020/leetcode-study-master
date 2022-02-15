@@ -18,4 +18,4 @@ leetcode学习记录  跟着carl哥的《代码随想录》学习
 
 ## 链表
 1. [链表总结]()
-2. 
+2. [203. 移除链表元素](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E9%93%BE%E8%A1%A8/%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md)
