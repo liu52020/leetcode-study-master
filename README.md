@@ -1,5 +1,5 @@
 # leetcode-study-master
-leetcode学习记录  跟着carl哥的《代码随想录》[链接](https://github.com/youngyangyang04/leetcode-master)学习
+leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/youngyangyang04/leetcode-master)》学习
 
 1. 开始时间：2022年2月14日 距离提前批还有六个月
 
