@@ -81,7 +81,7 @@ public:
         // 如果删除的是最后一个结点  那么只需要将cur指向nulptr
         if(cur->next->next!=nullptr){
             cur->next = cur->next->next;
-        }else if(cur->next->next==nullptr){
+        }else{
             cur->next = nullptr;
         }
         
