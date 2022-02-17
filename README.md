@@ -22,3 +22,4 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 3. [707. 设计链表](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E9%93%BE%E8%A1%A8/%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8.md)
 4. [206. 反转链表](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E9%93%BE%E8%A1%A8/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 5. [24. 两两交换链表中的节点](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E9%93%BE%E8%A1%A8/%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E7%BB%93%E7%82%B9.md)
+6. [19. 删除链表中的倒数第n个结点](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E9%93%BE%E8%A1%A8/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E7%BB%93%E7%82%B9.md)
