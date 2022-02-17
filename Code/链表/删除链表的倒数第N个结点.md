@@ -46,6 +46,7 @@
 <img src='https://code-thinking.cdn.bcebos.com/pics/19.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B93.png' width=600> </img></div>
 
 **思路1： 倒数变正数解决问题**
+
 代码如下：
 ```CPP
 class Solution {
@@ -93,6 +94,7 @@ public:
 ```
 
 **思路2： 快慢指针解决问题**
+
 ```CPP
 
 ```
