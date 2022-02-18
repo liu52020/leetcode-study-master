@@ -27,5 +27,5 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 8. [142. 环形链表II](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E9%93%BE%E8%A1%A8/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md)
 
 ## 哈希表
-1. [哈希表总结]()
-2.  
+1. [哈希表总结](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%93%88%E5%B8%8C%E8%A1%A8/%E5%93%88%E5%B8%8C%E8%A1%A8%E6%80%BB%E7%BB%93.md)
+2. [242. 有效的字母异位词](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%93%88%E5%B8%8C%E8%A1%A8/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
