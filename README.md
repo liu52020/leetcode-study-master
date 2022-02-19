@@ -37,6 +37,7 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 8. [383. 赎金信](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%93%88%E5%B8%8C%E8%A1%A8/%E8%B5%8E%E9%87%91%E4%BF%A1.md)
 9. [15. 三数之和](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%93%88%E5%B8%8C%E8%A1%A8/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 10. [18. 四数之和](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%93%88%E5%B8%8C%E8%A1%A8/%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+11. [哈希表刷题后总结篇](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%93%88%E5%B8%8C%E8%A1%A8/%E5%93%88%E5%B8%8C%E8%A1%A8%E5%88%B7%E9%A2%98%E5%90%8E%E6%80%BB%E7%BB%93%E7%AF%87.md)
 
 # 字符串
 1. [字符串总结]()
