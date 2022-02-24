@@ -56,5 +56,7 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 1. [栈与队列基础知识](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 2. [232. 用栈实现队列](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
 3. [225. 用队列实现栈](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
+4. [20. 有效的括号](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+5. [1047. 删除字符串中的所有重复项](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
 
 
