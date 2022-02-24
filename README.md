@@ -53,7 +53,7 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 1. [双指针总结](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%8F%8C%E6%8C%87%E9%92%88/%E5%8F%8C%E6%8C%87%E9%92%88%E6%80%BB%E7%BB%93.md)
 
 # 栈与队列
-1. []()
+1. [栈与队列基础知识](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 2. 
 
 
