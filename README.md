@@ -40,7 +40,7 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 11. [哈希表刷题后总结篇](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%93%88%E5%B8%8C%E8%A1%A8/%E5%93%88%E5%B8%8C%E8%A1%A8%E5%88%B7%E9%A2%98%E5%90%8E%E6%80%BB%E7%BB%93%E7%AF%87.md)
 
 # 字符串
-1. [字符串总结]()
+1. [字符串总结](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%80%BB%E7%BB%93.md)
 2. [344. 反转字符串](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 3. [541. 反转字符串II](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2II.md)
 4. [剑指offer 05. 替换空格](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
