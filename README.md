@@ -44,4 +44,7 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 2. [344. 反转字符串](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 3. [541. 反转字符串II](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2II.md)
 4. [剑指offer 05. 替换空格](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
+5. [151. 翻转字符串里的单词（我自己写的有点问题 时间会超）](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md)
+6. [剑指offer 58-II. 左旋转字符串](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+7. [28. 实现strStr()（不太理解KMP算法）](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AE%9E%E7%8E%B0strStr()%20KMP%E7%BB%8F%E5%85%B8%E9%A2%98%E7%9B%AE.md)
 
