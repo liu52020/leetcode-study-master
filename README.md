@@ -49,3 +49,11 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 7. [28. 实现strStr()（不太理解KMP算法）](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AE%9E%E7%8E%B0strStr()%20KMP%E7%BB%8F%E5%85%B8%E9%A2%98%E7%9B%AE.md)
 8. [459. 重复的子字符串 不太理解](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2%20KMP%E7%AE%97%E6%B3%95.md)
 
+# 双指针
+1. [双指针总结](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%8F%8C%E6%8C%87%E9%92%88/%E5%8F%8C%E6%8C%87%E9%92%88%E6%80%BB%E7%BB%93.md)
+
+# 栈与队列
+1. []()
+2. 
+
+
