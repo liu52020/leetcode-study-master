@@ -54,6 +54,7 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 
 # 栈与队列
 1. [栈与队列基础知识](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
-2. 
+2. [232. 用栈实现队列](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
+3. [225. 用队列实现栈](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
 
 
