@@ -65,6 +65,8 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 
 
 # 二叉树
+1. [二叉树基础知识](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+2. [二叉树的递归遍历](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%80%92%E5%BD%92%E9%81%8D%E5%8E%86.md)
 
 
 
