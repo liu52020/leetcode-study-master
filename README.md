@@ -75,6 +75,8 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 8. [100. 相同的树](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E4%BA%8C%E5%8F%89%E6%A0%91/%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.md)
 9. [404. 左叶子之和](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E4%BA%8C%E5%8F%89%E6%A0%91/%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C.md)
 10. [513. 找树左下角的值](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E4%BA%8C%E5%8F%89%E6%A0%91/%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.md)
+11. [11. 路径总和](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E4%BA%8C%E5%8F%89%E6%A0%91/%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C.md)
+12. [12. 构建二叉树](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
 
 
