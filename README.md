@@ -82,4 +82,7 @@ leetcode学习记录  跟着carl哥的《[代码随想录](https://github.com/yo
 # 回溯
 1. [77. 组合](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%9B%9E%E6%BA%AF/%E7%BB%84%E5%90%88.md)
 2. [216. 组合II](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%9B%9E%E6%BA%AF/%E7%BB%84%E5%90%88II.md)
+3. [17. 电话号码的字母组合](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%9B%9E%E6%BA%AF/%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
+4. [39. 组合总和](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%9B%9E%E6%BA%AF/%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
+5. [40. 组合总和II](https://github.com/liu52020/leetcode-study-master/blob/main/Code/%E5%9B%9E%E6%BA%AF/%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CII.md)
 
